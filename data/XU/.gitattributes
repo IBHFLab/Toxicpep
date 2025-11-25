@@ -1,0 +1,10 @@
+OpCNN_t5_esm1b_test_results filter=lfs diff=lfs merge=lfs -text
+protein_embeddings_XU_AMP_test.pkl filter=lfs diff=lfs merge=lfs -text
+protein_embeddings_XU_nonAMP_test.pkl filter=lfs diff=lfs merge=lfs -text
+OpCNN_t5_esm1b_results filter=lfs diff=lfs merge=lfs -text
+XU_AMP_test_processed.csv filter=lfs diff=lfs merge=lfs -text
+XU_nonAMP_test_processed.csv filter=lfs diff=lfs merge=lfs -text
+XU_train_negative_processed.csv filter=lfs diff=lfs merge=lfs -text
+XU_train_positive_processed.csv filter=lfs diff=lfs merge=lfs -text
+protein_embeddings_XU_train_negative.pkl filter=lfs diff=lfs merge=lfs -text
+protein_embeddings_XU_train_positive.pkl filter=lfs diff=lfs merge=lfs -text
