@@ -12,3 +12,4 @@ position filter=lfs diff=lfs merge=lfs -text
 util filter=lfs diff=lfs merge=lfs -text
 data/XU/XU_train_negative_processed.csv filter=lfs diff=lfs merge=lfs -text
 data/XU/XU_train_positive_processed.csv filter=lfs diff=lfs merge=lfs -text
+data_loader/esm1b_t33_650M_UR50S/train_neg_processed.csv filter=lfs diff=lfs merge=lfs -text
