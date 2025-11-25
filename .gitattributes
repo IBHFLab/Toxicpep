@@ -1,0 +1,14 @@
+Test_XU.py filter=lfs diff=lfs merge=lfs -text
+Train_latest.py filter=lfs diff=lfs merge=lfs -text
+__pycache__ filter=lfs diff=lfs merge=lfs -text
+data filter=lfs diff=lfs merge=lfs -text
+data_loader filter=lfs diff=lfs merge=lfs -text
+requirements.txt filter=lfs diff=lfs merge=lfs -text
+MLP_train.py filter=lfs diff=lfs merge=lfs -text
+Test.py filter=lfs diff=lfs merge=lfs -text
+Train_XU.py filter=lfs diff=lfs merge=lfs -text
+models filter=lfs diff=lfs merge=lfs -text
+position filter=lfs diff=lfs merge=lfs -text
+util filter=lfs diff=lfs merge=lfs -text
+data/XU/XU_train_negative_processed.csv filter=lfs diff=lfs merge=lfs -text
+data/XU/XU_train_positive_processed.csv filter=lfs diff=lfs merge=lfs -text
